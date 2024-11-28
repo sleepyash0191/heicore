@@ -1,21 +1,13 @@
-# ![Logo](chrome/app/theme/chromium/product_logo_64.png) Chromium
+# 黑曜石浏览器 | HeiCORE 值得骄傲的国产黑科技
 
-Chromium is an open-source browser project that aims to build a safer, faster,
-and more stable way for all users to experience the web.
-
-The project's web site is https://www.chromium.org.
-
-To check out the source code locally, don't use `git clone`! Instead,
-follow [the instructions on how to get the code](docs/get_the_code.md).
-
-Documentation in the source is rooted in [docs/README.md](docs/README.md).
-
-Learn how to [Get Around the Chromium Source Code Directory
-Structure](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code).
-
-For historical reasons, there are some small top level directories. Now the
-guidance is that new top level directories are for product (e.g. Chrome,
-Android WebView, Ash). Even if these products have multiple executables, the
-code should be in subdirectories of the product.
-
-If you found a bug, please file it at https://crbug.com/new.
+1. 这是我们全新自主研发的浏览器
+2. 基于区块链的分布式计算，让 CPU 温度再低一点
+3. 当然我不是 Chrome 套壳
+4. Chrome 跟 chromium 是不一样的，chromium 能叫 Chrome 吗？
+5. 人格
+6. 如果你一定要追根究底，那我确实是 chromium 套壳，但在未来我会删掉 chromium 的代码
+7. 借鉴已有的开源项目是很自然的事，可能你们对开源有误解
+8. 黑曜石浏览器采用微内核、形式化验证、比 Chrome 快 600%
+9. 黑曜石浏览器基于神经网络的强人工智能，网页加载完成即开始获取 FLAG，目标主动隐身也无法抵御攻击
+10. 黑曜石浏览器将繁重的爆破工作提交到可信云端，使用大数据优化爆破过程（企业版功能）
+11. 黑曜石浏览器深度集成中国国产菜刀，BurpSuite, HackBar, Requests, cURL，更可查看队友进度，一键了解当前战况
